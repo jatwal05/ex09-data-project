@@ -4,9 +4,9 @@
 I analyzed non-majors vs majors to see who needs more help.
 
 ### Charts
-![Difficulty](./static/difficulty_chart.png)
-![Distribution](./static/dist_chart.png)
-![Understanding](./static/understanding_chart.png)
+![Difficulty](difficulty_chart.png)
+![Distribution](dist_chart.png)
+![Understanding](understanding_chart.png)
 
 ### Conclusion
 Based on the data analysis, my idea to add targeted review sessions for non-CS majors is definitely supported.
