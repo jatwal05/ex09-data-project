@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: EX:09 Data Project
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/<ex09-data-project>"
+description: >- An analysis of COMP110 student data to determine if non-CS majors require additional review sessions based on perceived difficulty and prior experience.
+baseurl: "/ex09-data-project"
 url: "jatwal05.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
